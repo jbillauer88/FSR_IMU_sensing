@@ -1,2 +1,2 @@
 # FSR_IMU_sensing
-Arduino
+Arduino code for FSR and IMU sensing project
